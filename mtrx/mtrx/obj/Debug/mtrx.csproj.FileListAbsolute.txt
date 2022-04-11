@@ -1,0 +1,7 @@
+C:\Users\tanulo\source\repos\mtrx\mtrx\bin\Debug\mtrx.exe.config
+C:\Users\tanulo\source\repos\mtrx\mtrx\bin\Debug\mtrx.exe
+C:\Users\tanulo\source\repos\mtrx\mtrx\bin\Debug\mtrx.pdb
+C:\Users\tanulo\source\repos\mtrx\mtrx\obj\Debug\mtrx.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\mtrx\mtrx\obj\Debug\mtrx.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\mtrx\mtrx\obj\Debug\mtrx.exe
+C:\Users\tanulo\source\repos\mtrx\mtrx\obj\Debug\mtrx.pdb

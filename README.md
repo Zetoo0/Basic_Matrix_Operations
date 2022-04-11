@@ -1,2 +1,3 @@
 # Basic_Matrix_Operations
-Basic matrix operations
+
+Basic Matrix Operations suchs as Multiplication, Addition, Skalar Multiplication and Transpose
